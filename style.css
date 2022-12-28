@@ -1,0 +1,47 @@
+h1{
+    color: rgb(220, 21, 21);
+}
+h2{
+    color: brown;
+    font-style: italic;
+}
+.s1{
+    color: brown;
+    line-height: 50px;
+}
+#i1{
+    text-decoration: line-through;
+    font-weight: bold;
+}
+#i2{
+    background-color: yellow;
+    font-weight: bold;
+}
+.s2{
+    text-decoration: underline;
+    font-style: italic;
+}
+.s3{
+    color: brown;
+    letter-spacing: 0.2cm;
+}
+.s4{
+    color: brown;
+}
+#i5{
+    color: red;
+    font-style: italic;
+}
+.s6{
+    background-color: yellow;
+    font-style: italic;
+    color: red;
+    text-decoration: none;
+}
+h3{
+    color: red;
+    font-style: italic;
+}
+.s7{
+    background-color: yellow;
+}
